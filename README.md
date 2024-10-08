@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41ac5d7e-f84e-48e1-b12c-7a24a57053f6)# 3b.CREATION FOR CHAT USING TCP SOCKETS
+# 3b.CREATION FOR CHAT USING TCP SOCKETS
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -68,8 +68,8 @@ start_server()
 ~~~
 
 ## OUPUT
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c211f865-8956-433a-8c06-99582132e295)
+![image](https://github.com/user-attachments/assets/7b5ac05d-270a-45a7-8077-751a59c26749)
 
 
 
